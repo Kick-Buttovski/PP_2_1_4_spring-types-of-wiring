@@ -7,7 +7,6 @@ import org.springframework.stereotype.Component;
 @Component
 public class Duck5 {
 
-//    @Qualifier("needle7")
     @Autowired
     private Egg6 egg;
 
